@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "zenバベル"
+    },
+    {
+      "name": "alert_same_language_pair_inline_format",
+      "value": "同一言語ペア（%1$s）のため翻訳できません。"
+    },
+    {
+      "name": "alert_same_language_pair_message_format",
+      "value": "入力言語と出力言語が同じペアになっています（%1$s）。別の出力言語を選択して再実行してください。"
+    },
+    {
+      "name": "alert_same_language_pair_title",
+      "value": "同一言語ペアです"
+    },
+    {
+      "name": "menu_file_import",
+      "value": "読み込み..."
+    },
+    {
+      "name": "menu_file_import_alert_ok",
+      "value": "OK"
+    },
+    {
+      "name": "menu_file_import_failed_message",
+      "value": "このファイルには対応するテキストが含まれていません。"
+    },
+    {
+      "name": "menu_file_import_failed_title",
+      "value": "このファイルは読み込めません"
+    },
+    {
+      "name": "menu_file_import_panel_message",
+      "value": "テキストを読み込むファイルを選択してください。"
+    },
+    {
+      "name": "menu_translate_action_stop",
+      "value": "中断"
+    },
+    {
+      "name": "menu_translate_action_translate",
+      "value": "翻訳"
+    },
+    {
+      "name": "menu_translate_ai_unavailable",
+      "value": "AI翻訳はこのデバイスで利用できません"
+    },
+    {
+      "name": "menu_translate_switch_to_ai",
+      "value": "AI翻訳に切り替え"
+    },
+    {
+      "name": "menu_translate_switch_to_standard",
+      "value": "機械翻訳に切り替え"
+    },
+    {
+      "name": "menu_translate_target_language",
+      "value": "翻訳先言語"
+    },
+    {
+      "name": "menu_translate_top",
+      "value": "翻訳"
+    },
+    {
+      "name": "status_notice_ai_fallback_to_tf",
+      "value": "AI出力できなかったため機械翻訳しました"
+    },
+    {
+      "name": "status_notice_same_language_untranslatable",
+      "value": "同一言語のために翻訳できませんでした"
+    },
+    {
+      "name": "status_notice_unknown_source_language",
+      "value": "元言語が不明だったため翻訳できませんでした"
+    },
+    {
+      "name": "tf_menu_download_hint",
+      "value": "言語パックをダウンロードします"
+    },
+    {
+      "name": "tf_menu_downloading_format",
+      "value": "%1$sの言語パックをダウンロード中…"
+    },
+    {
+      "name": "tf_menu_source_language_fallback",
+      "value": "不明な言語"
+    },
+    {
+      "name": "tf_menu_target_language_fallback",
+      "value": "翻訳先言語"
+    },
+    {
+      "name": "tf_menu_unsupported_pair_format",
+      "value": "%1$s から %2$s には翻訳できません"
+    },
+    {
+      "name": "ui_action_clear",
+      "value": "クリア"
+    },
+    {
+      "name": "ui_action_close",
+      "value": "閉じる"
+    },
+    {
+      "name": "ui_action_copy_output",
+      "value": "出力をコピー"
+    },
+    {
+      "name": "ui_action_import",
+      "value": "読み込み"
+    },
+    {
+      "name": "ui_action_ok",
+      "value": "OK"
+    },
+    {
+      "name": "ui_action_paste",
+      "value": "貼り付け"
+    },
+    {
+      "name": "ui_action_share",
+      "value": "共有"
+    },
+    {
+      "name": "ui_alert_open_settings",
+      "value": "Settings を開く"
+    },
+    {
+      "name": "ui_dev_console",
+      "value": "コンソール"
+    },
+    {
+      "name": "ui_dev_experiment",
+      "value": "実験"
+    },
+    {
+      "name": "ui_dev_glossary",
+      "value": "用語集（source=target）"
+    },
+    {
+      "name": "ui_dev_indexes",
+      "value": "インデックス"
+    },
+    {
+      "name": "ui_dev_process_mode",
+      "value": "処理モード"
+    },
+    {
+      "name": "ui_import_album",
+      "value": "アルバム"
+    },
+    {
+      "name": "ui_import_files",
+      "value": "ファイル"
+    },
+    {
+      "name": "ui_import_loading",
+      "value": "読み込み中"
+    },
+    {
+      "name": "ui_import_ocr_failed",
+      "value": "文字を読み取れませんでした"
+    },
+    {
+      "name": "ui_import_shared_text_imported",
+      "value": "共有テキストを取り込みました"
+    },
+    {
+      "name": "ui_placeholder_source_input",
+      "value": "翻訳したい文章を入力してください"
+    },
+    {
+      "name": "ui_section_output",
+      "value": "出力"
+    },
+    {
+      "name": "ui_section_source",
+      "value": "入力"
+    },
+    {
+      "name": "ui_settings_auto_translate_after_import",
+      "value": "共有取り込み後に自動翻訳"
+    },
+    {
+      "name": "ui_settings_clutch",
+      "value": "クラッチ"
+    },
+    {
+      "name": "ui_settings_developer_mode",
+      "value": "開発者モード"
+    },
+    {
+      "name": "ui_settings_verbose_console",
+      "value": "詳細コンソール"
+    },
+    {
+      "name": "ui_target_none",
+      "value": "翻訳先なし"
+    },
+    {
+      "name": "ui_target_none_plural",
+      "value": "翻訳先言語がありません"
+    },
+    {
+      "name": "view_menu_column",
+      "value": "カラム表示"
+    },
+    {
+      "name": "view_menu_compact",
+      "value": "コンパクト"
+    },
+    {
+      "name": "view_menu_size_actual",
+      "value": "標準サイズ"
+    },
+    {
+      "name": "view_menu_size_zoom_in",
+      "value": "拡大"
+    },
+    {
+      "name": "view_menu_size_zoom_out",
+      "value": "縮小"
+    }
+  ]
+}

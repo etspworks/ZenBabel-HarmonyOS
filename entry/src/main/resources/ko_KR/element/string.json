@@ -1,0 +1,224 @@
+{
+  "string": [
+    {
+      "name": "alert_same_language_pair_inline_format",
+      "value": "동일 언어 쌍(%1$s)은 번역할 수 없습니다."
+    },
+    {
+      "name": "alert_same_language_pair_message_format",
+      "value": "원문 언어와 대상 언어가 같습니다(%1$s). 다른 대상 언어를 선택한 뒤 다시 시도하세요."
+    },
+    {
+      "name": "alert_same_language_pair_title",
+      "value": "동일 언어 쌍"
+    },
+    {
+      "name": "menu_file_import",
+      "value": "가져오기..."
+    },
+    {
+      "name": "menu_file_import_alert_ok",
+      "value": "확인"
+    },
+    {
+      "name": "menu_file_import_failed_message",
+      "value": "이 파일에는 지원되는 텍스트 콘텐츠가 없습니다."
+    },
+    {
+      "name": "menu_file_import_failed_title",
+      "value": "이 파일을 가져올 수 없습니다."
+    },
+    {
+      "name": "menu_file_import_panel_message",
+      "value": "텍스트를 가져올 파일을 선택하세요."
+    },
+    {
+      "name": "menu_translate_action_stop",
+      "value": "중지"
+    },
+    {
+      "name": "menu_translate_action_translate",
+      "value": "번역"
+    },
+    {
+      "name": "menu_translate_ai_unavailable",
+      "value": "이 기기에서는 AI 번역을 사용할 수 없습니다"
+    },
+    {
+      "name": "menu_translate_switch_to_ai",
+      "value": "AI 번역으로 전환"
+    },
+    {
+      "name": "menu_translate_switch_to_standard",
+      "value": "기본 번역으로 전환"
+    },
+    {
+      "name": "menu_translate_target_language",
+      "value": "번역 대상 언어"
+    },
+    {
+      "name": "menu_translate_top",
+      "value": "번역"
+    },
+    {
+      "name": "status_notice_ai_fallback_to_tf",
+      "value": "AI 번역을 완료하지 못해 기계 번역으로 처리했습니다."
+    },
+    {
+      "name": "status_notice_same_language_untranslatable",
+      "value": "원문과 대상 언어가 같아 번역할 수 없습니다."
+    },
+    {
+      "name": "status_notice_unknown_source_language",
+      "value": "원문 언어를 감지할 수 없어 번역할 수 없습니다."
+    },
+    {
+      "name": "tf_menu_download_hint",
+      "value": "언어 팩을 다운로드합니다."
+    },
+    {
+      "name": "tf_menu_downloading_format",
+      "value": "%1$s 언어 팩 다운로드 중…"
+    },
+    {
+      "name": "tf_menu_source_language_fallback",
+      "value": "감지되지 않은 언어"
+    },
+    {
+      "name": "tf_menu_target_language_fallback",
+      "value": "대상 언어"
+    },
+    {
+      "name": "tf_menu_unsupported_pair_format",
+      "value": "%1$s에서 %2$s(으)로 번역할 수 없습니다."
+    },
+    {
+      "name": "ui_action_clear",
+      "value": "지우기"
+    },
+    {
+      "name": "ui_action_close",
+      "value": "닫기"
+    },
+    {
+      "name": "ui_action_copy_output",
+      "value": "출력 복사"
+    },
+    {
+      "name": "ui_action_import",
+      "value": "가져오기"
+    },
+    {
+      "name": "ui_action_ok",
+      "value": "확인"
+    },
+    {
+      "name": "ui_action_paste",
+      "value": "붙여넣기"
+    },
+    {
+      "name": "ui_action_share",
+      "value": "공유"
+    },
+    {
+      "name": "ui_alert_open_settings",
+      "value": "설정 열기"
+    },
+    {
+      "name": "ui_dev_console",
+      "value": "콘솔"
+    },
+    {
+      "name": "ui_dev_experiment",
+      "value": "실험"
+    },
+    {
+      "name": "ui_dev_glossary",
+      "value": "용어집 (source=target)"
+    },
+    {
+      "name": "ui_dev_indexes",
+      "value": "인덱스"
+    },
+    {
+      "name": "ui_dev_process_mode",
+      "value": "처리 모드"
+    },
+    {
+      "name": "ui_import_album",
+      "value": "앨범"
+    },
+    {
+      "name": "ui_import_files",
+      "value": "파일"
+    },
+    {
+      "name": "ui_import_loading",
+      "value": "불러오는 중"
+    },
+    {
+      "name": "ui_import_ocr_failed",
+      "value": "텍스트를 읽을 수 없습니다."
+    },
+    {
+      "name": "ui_import_shared_text_imported",
+      "value": "공유 텍스트를 가져왔습니다."
+    },
+    {
+      "name": "ui_placeholder_source_input",
+      "value": "번역할 문장을 입력하세요"
+    },
+    {
+      "name": "ui_section_output",
+      "value": "번역"
+    },
+    {
+      "name": "ui_section_source",
+      "value": "원문"
+    },
+    {
+      "name": "ui_settings_auto_translate_after_import",
+      "value": "공유 가져오기 후 자동 번역"
+    },
+    {
+      "name": "ui_settings_clutch",
+      "value": "클러치"
+    },
+    {
+      "name": "ui_settings_developer_mode",
+      "value": "개발자 모드"
+    },
+    {
+      "name": "ui_settings_verbose_console",
+      "value": "상세 콘솔"
+    },
+    {
+      "name": "ui_target_none",
+      "value": "대상 없음"
+    },
+    {
+      "name": "ui_target_none_plural",
+      "value": "대상 언어 없음"
+    },
+    {
+      "name": "view_menu_column",
+      "value": "열 보기"
+    },
+    {
+      "name": "view_menu_compact",
+      "value": "컴팩트"
+    },
+    {
+      "name": "view_menu_size_actual",
+      "value": "표준 크기"
+    },
+    {
+      "name": "view_menu_size_zoom_in",
+      "value": "확대"
+    },
+    {
+      "name": "view_menu_size_zoom_out",
+      "value": "축소"
+    }
+  ]
+}

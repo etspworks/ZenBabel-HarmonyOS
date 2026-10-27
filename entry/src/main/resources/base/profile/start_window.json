@@ -1,0 +1,6 @@
+{
+  "startWindowType": "REQUIRED_SHOW",
+  "startWindowBackgroundColor": "$color:start_window_background",
+  "startWindowBackgroundImage": "$media:launch_screen",
+  "startWindowBackgroundImageFit": "Contain"
+}

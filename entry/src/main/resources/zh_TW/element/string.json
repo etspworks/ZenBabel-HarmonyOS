@@ -1,0 +1,224 @@
+{
+  "string": [
+    {
+      "name": "alert_same_language_pair_inline_format",
+      "value": "相同語言配對（%1$s）無法翻譯。"
+    },
+    {
+      "name": "alert_same_language_pair_message_format",
+      "value": "來源語言與目標語言相同（%1$s）。請改選其他目標語言後再試一次。"
+    },
+    {
+      "name": "alert_same_language_pair_title",
+      "value": "相同語言配對"
+    },
+    {
+      "name": "menu_file_import",
+      "value": "匯入..."
+    },
+    {
+      "name": "menu_file_import_alert_ok",
+      "value": "好"
+    },
+    {
+      "name": "menu_file_import_failed_message",
+      "value": "此檔案不包含受支援的文字內容。"
+    },
+    {
+      "name": "menu_file_import_failed_title",
+      "value": "無法匯入此檔案。"
+    },
+    {
+      "name": "menu_file_import_panel_message",
+      "value": "請選擇要匯入文字的檔案。"
+    },
+    {
+      "name": "menu_translate_action_stop",
+      "value": "停止"
+    },
+    {
+      "name": "menu_translate_action_translate",
+      "value": "翻譯"
+    },
+    {
+      "name": "menu_translate_ai_unavailable",
+      "value": "此裝置不支援 AI 翻譯"
+    },
+    {
+      "name": "menu_translate_switch_to_ai",
+      "value": "切換為 AI 翻譯"
+    },
+    {
+      "name": "menu_translate_switch_to_standard",
+      "value": "切換為標準翻譯"
+    },
+    {
+      "name": "menu_translate_target_language",
+      "value": "目標語言"
+    },
+    {
+      "name": "menu_translate_top",
+      "value": "翻譯"
+    },
+    {
+      "name": "status_notice_ai_fallback_to_tf",
+      "value": "AI 翻譯無法完成，已改用機器翻譯。"
+    },
+    {
+      "name": "status_notice_same_language_untranslatable",
+      "value": "來源語言與目標語言相同，無法翻譯。"
+    },
+    {
+      "name": "status_notice_unknown_source_language",
+      "value": "無法偵測來源語言，無法翻譯。"
+    },
+    {
+      "name": "tf_menu_download_hint",
+      "value": "將下載語言套件。"
+    },
+    {
+      "name": "tf_menu_downloading_format",
+      "value": "正在下載%1$s語言包…"
+    },
+    {
+      "name": "tf_menu_source_language_fallback",
+      "value": "未偵測到的語言"
+    },
+    {
+      "name": "tf_menu_target_language_fallback",
+      "value": "目標語言"
+    },
+    {
+      "name": "tf_menu_unsupported_pair_format",
+      "value": "無法從 %1$s 翻譯到 %2$s。"
+    },
+    {
+      "name": "ui_action_clear",
+      "value": "清除"
+    },
+    {
+      "name": "ui_action_close",
+      "value": "關閉"
+    },
+    {
+      "name": "ui_action_copy_output",
+      "value": "複製輸出"
+    },
+    {
+      "name": "ui_action_import",
+      "value": "匯入"
+    },
+    {
+      "name": "ui_action_ok",
+      "value": "好"
+    },
+    {
+      "name": "ui_action_paste",
+      "value": "貼上"
+    },
+    {
+      "name": "ui_action_share",
+      "value": "分享"
+    },
+    {
+      "name": "ui_alert_open_settings",
+      "value": "打開設定"
+    },
+    {
+      "name": "ui_dev_console",
+      "value": "主控台"
+    },
+    {
+      "name": "ui_dev_experiment",
+      "value": "實驗"
+    },
+    {
+      "name": "ui_dev_glossary",
+      "value": "術語表（source=target）"
+    },
+    {
+      "name": "ui_dev_indexes",
+      "value": "索引"
+    },
+    {
+      "name": "ui_dev_process_mode",
+      "value": "處理模式"
+    },
+    {
+      "name": "ui_import_album",
+      "value": "相簿"
+    },
+    {
+      "name": "ui_import_files",
+      "value": "檔案"
+    },
+    {
+      "name": "ui_import_loading",
+      "value": "讀取中"
+    },
+    {
+      "name": "ui_import_ocr_failed",
+      "value": "無法辨識文字。"
+    },
+    {
+      "name": "ui_import_shared_text_imported",
+      "value": "已匯入分享文字。"
+    },
+    {
+      "name": "ui_placeholder_source_input",
+      "value": "請輸入要翻譯的文字"
+    },
+    {
+      "name": "ui_section_output",
+      "value": "輸出"
+    },
+    {
+      "name": "ui_section_source",
+      "value": "來源文字"
+    },
+    {
+      "name": "ui_settings_auto_translate_after_import",
+      "value": "匯入分享內容後自動翻譯"
+    },
+    {
+      "name": "ui_settings_clutch",
+      "value": "連動"
+    },
+    {
+      "name": "ui_settings_developer_mode",
+      "value": "開發者模式"
+    },
+    {
+      "name": "ui_settings_verbose_console",
+      "value": "詳細主控台"
+    },
+    {
+      "name": "ui_target_none",
+      "value": "無目標"
+    },
+    {
+      "name": "ui_target_none_plural",
+      "value": "無目標語言"
+    },
+    {
+      "name": "view_menu_column",
+      "value": "欄位顯示"
+    },
+    {
+      "name": "view_menu_compact",
+      "value": "精簡"
+    },
+    {
+      "name": "view_menu_size_actual",
+      "value": "標準大小"
+    },
+    {
+      "name": "view_menu_size_zoom_in",
+      "value": "放大"
+    },
+    {
+      "name": "view_menu_size_zoom_out",
+      "value": "縮小"
+    }
+  ]
+}

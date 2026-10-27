@@ -1,0 +1,180 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#E6E6E8"
+    },
+    {
+      "name": "source_color_l140_1_value",
+      "value": "#FF1A1F24"
+    },
+    {
+      "name": "source_color_l141_1_value",
+      "value": "#FF293038"
+    },
+    {
+      "name": "source_color_l144_1_value",
+      "value": "#FAE6E6E8"
+    },
+    {
+      "name": "source_color_l145_1_value",
+      "value": "#FAEDE6E0"
+    },
+    {
+      "name": "source_color_l489_1_value",
+      "value": "#FF33594D"
+    },
+    {
+      "name": "source_color_l693_1_value",
+      "value": "#FF596B57"
+    },
+    {
+      "name": "source_color_l740_1_value",
+      "value": "#40000000"
+    },
+    {
+      "name": "source_color_l740_2_value",
+      "value": "#73FFFFFF"
+    },
+    {
+      "name": "source_color_l879_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l972_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l1112_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l1163_1_dark",
+      "value": "#0DFFFFFF"
+    },
+    {
+      "name": "source_color_l1163_2_light",
+      "value": "#24FFFFFF"
+    },
+    {
+      "name": "source_color_l1171_1_dark",
+      "value": "#29FFFFFF"
+    },
+    {
+      "name": "source_color_l1171_2_light",
+      "value": "#3DFFFFFF"
+    },
+    {
+      "name": "source_color_l1172_1_value",
+      "value": "#03FFFFFF"
+    },
+    {
+      "name": "source_color_l1180_1_dark",
+      "value": "#33000000"
+    },
+    {
+      "name": "source_color_l1180_2_light",
+      "value": "#1A000000"
+    },
+    {
+      "name": "source_color_l1197_1_dark",
+      "value": "#52FFFFFF"
+    },
+    {
+      "name": "source_color_l1197_2_light",
+      "value": "#B3FFFFFF"
+    },
+    {
+      "name": "source_color_l1281_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l1309_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l1346_1_value",
+      "value": "#66FFBE38"
+    },
+    {
+      "name": "source_color_l1399_1_value",
+      "value": "#66FFBE38"
+    },
+    {
+      "name": "source_color_l1408_1_value",
+      "value": "#F5FFFFFF"
+    },
+    {
+      "name": "source_color_l1409_1_value",
+      "value": "#DB000000"
+    },
+    {
+      "name": "source_color_l1418_1_value",
+      "value": "#F5FFFFFF"
+    },
+    {
+      "name": "source_color_l1419_1_value",
+      "value": "#B8000000"
+    },
+    {
+      "name": "source_color_l1612_1_value",
+      "value": "#3D000000"
+    },
+    {
+      "name": "source_color_l1612_2_value",
+      "value": "#4DFFFFFF"
+    },
+    {
+      "name": "source_color_l2100_1_value",
+      "value": "#3D000000"
+    },
+    {
+      "name": "source_color_l2100_2_value",
+      "value": "#4DFFFFFF"
+    },
+    {
+      "name": "source_color_l2171_1_value",
+      "value": "#F2FFFFFF"
+    },
+    {
+      "name": "source_color_l2172_1_value",
+      "value": "#D1000000"
+    },
+    {
+      "name": "source_color_l2178_1_value",
+      "value": "#EBFFFFFF"
+    },
+    {
+      "name": "source_color_l2179_1_value",
+      "value": "#FF33594D"
+    },
+    {
+      "name": "source_color_l3043_1_value",
+      "value": "#D1000000"
+    },
+    {
+      "name": "source_color_l3167_1_value",
+      "value": "#C7000000"
+    },
+    {
+      "name": "source_color_l3328_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l3343_1_value",
+      "value": "#00000000"
+    },
+    {
+      "name": "source_color_l3580_1_value",
+      "value": "#66FFBE38"
+    },
+    {
+      "name": "share_card_background",
+      "value": "#F2F2F7"
+    },
+    {
+      "name": "share_card_button_secondary",
+      "value": "#E5E5EA"
+    }
+  ]
+}

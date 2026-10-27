@@ -1,0 +1,16 @@
+{
+  "app": {
+    "bundleName": "com.etspworks.ZenBabel.hmos",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "buildVersion": "1",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name",
+    // Text follows the SYSTEM font size. Without this tag fontSizeScale defaults to
+    // nonFollowSystem, so the app ignores the setting - a regression against BOTH source
+    // platforms (Android sp, iOS Dynamic Type scale by default). Written by pipeline/
+    // scripts/scaffold_app_config.py; checked by static_guard font-scale-not-followed.
+    "configuration": "$profile:configuration"
+  }
+}

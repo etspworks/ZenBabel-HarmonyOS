@@ -1,0 +1,4 @@
+# Keep bytes as committed on Windows (core.autocrlf=true): bash rejects CRLF scripts,
+# and the patches must match upstream line endings exactly (02 has CRLF lines on purpose).
+*.sh text eol=lf
+*.patch -text

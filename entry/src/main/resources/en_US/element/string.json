@@ -1,0 +1,224 @@
+{
+  "string": [
+    {
+      "name": "alert_same_language_pair_inline_format",
+      "value": "Cannot translate with the same language pair (%1$s)."
+    },
+    {
+      "name": "alert_same_language_pair_message_format",
+      "value": "The source and target language are the same (%1$s). Select a different target language and try again."
+    },
+    {
+      "name": "alert_same_language_pair_title",
+      "value": "Same Language Pair"
+    },
+    {
+      "name": "menu_file_import",
+      "value": "Import..."
+    },
+    {
+      "name": "menu_file_import_alert_ok",
+      "value": "OK"
+    },
+    {
+      "name": "menu_file_import_failed_message",
+      "value": "This file does not contain supported text content."
+    },
+    {
+      "name": "menu_file_import_failed_title",
+      "value": "Unable to import this file."
+    },
+    {
+      "name": "menu_file_import_panel_message",
+      "value": "Select a file to import text."
+    },
+    {
+      "name": "menu_translate_action_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "menu_translate_action_translate",
+      "value": "Translate"
+    },
+    {
+      "name": "menu_translate_ai_unavailable",
+      "value": "AI translation unavailable on this device"
+    },
+    {
+      "name": "menu_translate_switch_to_ai",
+      "value": "Switch to AI Translation"
+    },
+    {
+      "name": "menu_translate_switch_to_standard",
+      "value": "Switch to Standard Translation"
+    },
+    {
+      "name": "menu_translate_target_language",
+      "value": "Target Language"
+    },
+    {
+      "name": "menu_translate_top",
+      "value": "Translate"
+    },
+    {
+      "name": "status_notice_ai_fallback_to_tf",
+      "value": "AI translation could not complete, so machine translation was used."
+    },
+    {
+      "name": "status_notice_same_language_untranslatable",
+      "value": "Could not translate because source and target are the same language."
+    },
+    {
+      "name": "status_notice_unknown_source_language",
+      "value": "Could not translate because the source language could not be detected."
+    },
+    {
+      "name": "tf_menu_download_hint",
+      "value": "Downloads the language pack."
+    },
+    {
+      "name": "tf_menu_downloading_format",
+      "value": "Downloading the %1$s language pack…"
+    },
+    {
+      "name": "tf_menu_source_language_fallback",
+      "value": "undetected language"
+    },
+    {
+      "name": "tf_menu_target_language_fallback",
+      "value": "target language"
+    },
+    {
+      "name": "tf_menu_unsupported_pair_format",
+      "value": "Cannot translate from %1$s to %2$s."
+    },
+    {
+      "name": "ui_action_clear",
+      "value": "Clear"
+    },
+    {
+      "name": "ui_action_close",
+      "value": "Close"
+    },
+    {
+      "name": "ui_action_copy_output",
+      "value": "Copy output"
+    },
+    {
+      "name": "ui_action_import",
+      "value": "Import"
+    },
+    {
+      "name": "ui_action_ok",
+      "value": "OK"
+    },
+    {
+      "name": "ui_action_paste",
+      "value": "Paste"
+    },
+    {
+      "name": "ui_action_share",
+      "value": "Share"
+    },
+    {
+      "name": "ui_alert_open_settings",
+      "value": "Open Settings"
+    },
+    {
+      "name": "ui_dev_console",
+      "value": "Console"
+    },
+    {
+      "name": "ui_dev_experiment",
+      "value": "Experiment"
+    },
+    {
+      "name": "ui_dev_glossary",
+      "value": "Glossary (source=target)"
+    },
+    {
+      "name": "ui_dev_indexes",
+      "value": "Indexes"
+    },
+    {
+      "name": "ui_dev_process_mode",
+      "value": "Process Mode"
+    },
+    {
+      "name": "ui_import_album",
+      "value": "Album"
+    },
+    {
+      "name": "ui_import_files",
+      "value": "Files"
+    },
+    {
+      "name": "ui_import_loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "ui_import_ocr_failed",
+      "value": "Could not read text."
+    },
+    {
+      "name": "ui_import_shared_text_imported",
+      "value": "Shared text imported."
+    },
+    {
+      "name": "ui_placeholder_source_input",
+      "value": "Enter text to translate."
+    },
+    {
+      "name": "ui_section_output",
+      "value": "Output"
+    },
+    {
+      "name": "ui_section_source",
+      "value": "Source"
+    },
+    {
+      "name": "ui_settings_auto_translate_after_import",
+      "value": "Auto Translate After Import"
+    },
+    {
+      "name": "ui_settings_clutch",
+      "value": "Clutch"
+    },
+    {
+      "name": "ui_settings_developer_mode",
+      "value": "Developer Mode"
+    },
+    {
+      "name": "ui_settings_verbose_console",
+      "value": "Verbose Console"
+    },
+    {
+      "name": "ui_target_none",
+      "value": "No target"
+    },
+    {
+      "name": "ui_target_none_plural",
+      "value": "No target languages"
+    },
+    {
+      "name": "view_menu_column",
+      "value": "Column"
+    },
+    {
+      "name": "view_menu_compact",
+      "value": "Compact"
+    },
+    {
+      "name": "view_menu_size_actual",
+      "value": "Actual Size"
+    },
+    {
+      "name": "view_menu_size_zoom_in",
+      "value": "Zoom In"
+    },
+    {
+      "name": "view_menu_size_zoom_out",
+      "value": "Zoom Out"
+    }
+  ]
+}

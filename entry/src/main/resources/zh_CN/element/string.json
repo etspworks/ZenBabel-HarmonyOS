@@ -1,0 +1,224 @@
+{
+  "string": [
+    {
+      "name": "alert_same_language_pair_inline_format",
+      "value": "相同语言对（%1$s）无法翻译。"
+    },
+    {
+      "name": "alert_same_language_pair_message_format",
+      "value": "源语言和目标语言相同（%1$s）。请选择其他目标语言后重试。"
+    },
+    {
+      "name": "alert_same_language_pair_title",
+      "value": "相同语言对"
+    },
+    {
+      "name": "menu_file_import",
+      "value": "导入..."
+    },
+    {
+      "name": "menu_file_import_alert_ok",
+      "value": "好"
+    },
+    {
+      "name": "menu_file_import_failed_message",
+      "value": "此文件不包含受支持的文本内容。"
+    },
+    {
+      "name": "menu_file_import_failed_title",
+      "value": "无法导入此文件。"
+    },
+    {
+      "name": "menu_file_import_panel_message",
+      "value": "请选择要导入文本的文件。"
+    },
+    {
+      "name": "menu_translate_action_stop",
+      "value": "停止"
+    },
+    {
+      "name": "menu_translate_action_translate",
+      "value": "翻译"
+    },
+    {
+      "name": "menu_translate_ai_unavailable",
+      "value": "此设备不支持 AI 翻译"
+    },
+    {
+      "name": "menu_translate_switch_to_ai",
+      "value": "切换到 AI 翻译"
+    },
+    {
+      "name": "menu_translate_switch_to_standard",
+      "value": "切换到标准翻译"
+    },
+    {
+      "name": "menu_translate_target_language",
+      "value": "目标语言"
+    },
+    {
+      "name": "menu_translate_top",
+      "value": "翻译"
+    },
+    {
+      "name": "status_notice_ai_fallback_to_tf",
+      "value": "AI 翻译未能完成，已改用机器翻译。"
+    },
+    {
+      "name": "status_notice_same_language_untranslatable",
+      "value": "源语言和目标语言相同，无法翻译。"
+    },
+    {
+      "name": "status_notice_unknown_source_language",
+      "value": "无法检测源语言，无法翻译。"
+    },
+    {
+      "name": "tf_menu_download_hint",
+      "value": "将下载语言包。"
+    },
+    {
+      "name": "tf_menu_downloading_format",
+      "value": "正在下载%1$s语言包…"
+    },
+    {
+      "name": "tf_menu_source_language_fallback",
+      "value": "未检测到的语言"
+    },
+    {
+      "name": "tf_menu_target_language_fallback",
+      "value": "目标语言"
+    },
+    {
+      "name": "tf_menu_unsupported_pair_format",
+      "value": "无法从 %1$s 翻译到 %2$s。"
+    },
+    {
+      "name": "ui_action_clear",
+      "value": "清除"
+    },
+    {
+      "name": "ui_action_close",
+      "value": "关闭"
+    },
+    {
+      "name": "ui_action_copy_output",
+      "value": "复制输出"
+    },
+    {
+      "name": "ui_action_import",
+      "value": "导入"
+    },
+    {
+      "name": "ui_action_ok",
+      "value": "好"
+    },
+    {
+      "name": "ui_action_paste",
+      "value": "粘贴"
+    },
+    {
+      "name": "ui_action_share",
+      "value": "分享"
+    },
+    {
+      "name": "ui_alert_open_settings",
+      "value": "打开设置"
+    },
+    {
+      "name": "ui_dev_console",
+      "value": "控制台"
+    },
+    {
+      "name": "ui_dev_experiment",
+      "value": "实验"
+    },
+    {
+      "name": "ui_dev_glossary",
+      "value": "术语表（source=target）"
+    },
+    {
+      "name": "ui_dev_indexes",
+      "value": "索引"
+    },
+    {
+      "name": "ui_dev_process_mode",
+      "value": "处理模式"
+    },
+    {
+      "name": "ui_import_album",
+      "value": "相册"
+    },
+    {
+      "name": "ui_import_files",
+      "value": "文件"
+    },
+    {
+      "name": "ui_import_loading",
+      "value": "读取中"
+    },
+    {
+      "name": "ui_import_ocr_failed",
+      "value": "无法识别文字。"
+    },
+    {
+      "name": "ui_import_shared_text_imported",
+      "value": "已导入共享文本。"
+    },
+    {
+      "name": "ui_placeholder_source_input",
+      "value": "请输入要翻译的文本"
+    },
+    {
+      "name": "ui_section_output",
+      "value": "输出"
+    },
+    {
+      "name": "ui_section_source",
+      "value": "源文本"
+    },
+    {
+      "name": "ui_settings_auto_translate_after_import",
+      "value": "导入共享内容后自动翻译"
+    },
+    {
+      "name": "ui_settings_clutch",
+      "value": "联动"
+    },
+    {
+      "name": "ui_settings_developer_mode",
+      "value": "开发者模式"
+    },
+    {
+      "name": "ui_settings_verbose_console",
+      "value": "详细控制台"
+    },
+    {
+      "name": "ui_target_none",
+      "value": "无目标"
+    },
+    {
+      "name": "ui_target_none_plural",
+      "value": "无目标语言"
+    },
+    {
+      "name": "view_menu_column",
+      "value": "分栏显示"
+    },
+    {
+      "name": "view_menu_compact",
+      "value": "紧凑"
+    },
+    {
+      "name": "view_menu_size_actual",
+      "value": "标准大小"
+    },
+    {
+      "name": "view_menu_size_zoom_in",
+      "value": "放大"
+    },
+    {
+      "name": "view_menu_size_zoom_out",
+      "value": "缩小"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/TranslationViewPage",
+    "pages/Index",
+    "pages/ShareCardPage"
+  ]
+}

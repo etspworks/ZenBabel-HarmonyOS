@@ -1,0 +1,18 @@
+zen-Babel for HarmonyOS includes third-party software:
+
+NLLB-200 distilled 600M translation model (Meta AI), Creative Commons Attribution-NonCommercial 4.0
+  (CC-BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/). Non-commercial use only.
+  Bundled as entry/src/main/resources/resfile/nllb/ (encoder.ms, decoder.ms, sentencepiece.bpe.model, vocab.txt,
+  languages.txt). Source: https://huggingface.co/facebook/nllb-200-distilled-600M
+  Converted for MindSpore Lite by tools/nllb/convert.sh (int8 weights, fixed input shapes); the conversion is
+  the only change. NLLB Team et al., "No Language Left Behind: Scaling Human-Centered Machine Translation", 2022.
+
+SentencePiece (Google), Apache License 2.0
+  Built into libnllb_napi.so. Source: https://github.com/google/sentencepiece/tree/v0.2.0
+  It bundles protobuf-lite 3.14.0 (Google), BSD 3-Clause License, which CLD3 uses as well.
+
+CLD3, Compact Language Detector v3 (Google), Apache License 2.0
+  Built into libnllb_napi.so. Source: https://github.com/google/cld3/tree/b48dc46512566f5a2d41118c8c1116c4f96dc661
+  entry/src/main/cpp/cld3/cld_3/protos holds its .proto files compiled with protoc 3.14.0.
+
+MindSpore Lite, the inference engine that runs the model, is part of HarmonyOS and is not bundled.

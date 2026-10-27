@@ -1,0 +1,84 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        // The iOS launch screen (LaunchScreen.storyboard): 'zen-Babel' over 'LOCAL LLM TRANSLATOR' on light grey.
+        "startWindow": "$profile:start_window",
+        "exported": true,
+        "launchType": "singleton",
+        // iPhone allows portrait and both landscapes (Info.plist UISupportedInterfaceOrientations); follow the
+        // device rotation, respecting the system rotation lock.
+        "orientation": "auto_rotation_restricted",
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home"
+            ]
+          },
+          {
+            "actions": [ "ohos.want.action.viewData" ],
+            "entities": [ "entity.system.browsable" ],
+            "uris": [ { "scheme": "prebabellens" } ]
+          },
+          {
+            "actions": [ "ohos.want.action.sendData" ],
+            "uris": [ { "type": "text/plain" }, { "type": "image/*" } ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "ShareExtAbility",
+        "srcEntry": "./ets/shareextability/ShareExtAbility.ets",
+        "type": "share",
+        "label": "$string:EntryAbility_label",
+        "icon": "$media:layered_image",
+        "exported": true,
+        "skills": [
+          {
+            "actions": [ "ohos.want.action.sendData" ],
+            "uris": [
+              { "scheme": "file", "utd": "general.text", "maxFileSupported": 1 },
+              { "scheme": "file", "utd": "general.hyperlink", "maxFileSupported": 1 },
+              { "scheme": "file", "utd": "general.image", "maxFileSupported": 1 },
+              { "scheme": "file", "utd": "general.object", "maxFileSupported": 1 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#E6E6E8"
+    },
+    {
+      "name": "share_card_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "share_card_button_secondary",
+      "value": "#2C2C2E"
+    }
+  ]
+}

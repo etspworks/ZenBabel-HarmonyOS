@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.16)
+project(engine_check CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(SPM_ENABLE_SHARED OFF CACHE BOOL "" FORCE)
+add_subdirectory(${SPM_DIR} spm EXCLUDE_FROM_ALL)
+add_executable(engine_check engine_check.cpp ${APP_CPP}/nllb_engine.cpp)
+target_include_directories(engine_check PRIVATE ${CMAKE_CURRENT_SOURCE_DIR} ${APP_CPP} ${MSLITE}/runtime/include ${MSLITE}/runtime ${SPM_DIR}/src)
+target_link_libraries(engine_check sentencepiece-static ${MSLITE}/runtime/lib/libmindspore-lite.so)
